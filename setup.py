@@ -39,7 +39,7 @@ setup(
         'Django>=2.1,<2.2',
         'pyjwt',
         'six',
-        'social-auth-core[openidconnect]>=1.3.0,<3.2.0',
-        'social-auth-app-django>=3.0.0',
+        'social-auth-core[openidconnect]=1.7.0',
+        'social-auth-app-django=3.1.0',
     ],
 )
